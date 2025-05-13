@@ -98,8 +98,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.minishare.top"];
-pub const RS_PUB_KEY: &str = "nZQjlS7rLAYqaDyy8MpgWQGXG+zOa8VtC7pMGMXX1sM=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["域名"];
+pub const RS_PUB_KEY: &str = "值";
 
 pub const RENDEZVOUS_PORT: i32 = 30001;
 pub const RELAY_PORT: i32 = 30002;
